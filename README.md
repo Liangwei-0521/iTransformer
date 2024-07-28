@@ -1,3 +1,7 @@
+Here's a screenshot of the prediction result:
+
+<img src="https://raw.githubusercontent.com/Liangwei-0521/iTransformer/master/result/predict.jpg" alt="Prediction Screenshot" width="600" style="max-width:100%;height:auto;">
+
 This project requires the following dependencies:
 
 - **matplotlib**: 3.7.2
@@ -10,10 +14,10 @@ This project requires the following dependencies:
 - **torch**: 2.1.0
 - **tqdm**: 4.66.4
 
-## Installation
+#### Installation
 
 To install the required dependencies, you can use pip:
 
+
 ```bash
 pip install -r requirements.txt
-
